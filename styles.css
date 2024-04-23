@@ -1,0 +1,25 @@
+img {
+    height: 150px;
+    aspect-ratio: auto;
+}
+
+#titlebox {
+    position: absolute;
+    top: 5%;
+    left: 50%;
+    transform: translateX(-50%)
+}
+
+.intro {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%)
+}
+
+#links {
+    position: absolute;
+    width: 60%;
+    left: 50%;
+    transform: translateX(-50%)
+}
