@@ -1,3 +1,6 @@
+/*By the way, don't just use one file for the css things try and have 1 css file for every html file (only if needed)
+i was just being lazy*/
+
 img {
     height: 150px;
     aspect-ratio: auto;
