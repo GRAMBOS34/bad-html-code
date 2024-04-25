@@ -52,3 +52,19 @@ img {
 .products img {
     padding: 10px;
 }
+
+.contacts {
+    Translate: (-50%, -50%)
+}
+
+#email{
+    top: 37%;
+    position:absolute;
+    left: 41%;
+}
+
+#number{
+    top: 57%;
+    position:absolute;
+    left: 41%;
+}
